@@ -1,0 +1,12 @@
+{
+  "name": "novao",
+  "version": "0.1.0",
+  "description": "naovao is a pure Node.js implementation of PKWARE DCL Implode",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.test.js"
+  },
+  "keywords": [],
+  "author": "Drazi Crendraven <drazisil@hey.com>",
+  "license": "GPL-3.0-or-later"
+}
